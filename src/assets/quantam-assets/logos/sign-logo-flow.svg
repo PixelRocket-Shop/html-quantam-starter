@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 6.66667C0 2.98477 2.98477 0 6.66667 0H33.3333C37.0152 0 40 2.98477 40 6.66667V33.3333C40 37.0152 37.0152 40 33.3333 40H6.66667C2.98477 40 0 37.0152 0 33.3333V6.66667Z" fill="#BEF264"/>
+<rect x="19.1666" y="6.66669" width="1.66667" height="10" rx="0.833333" fill="#022C22"/>
+<rect x="19.1666" y="23.3333" width="1.66667" height="10" rx="0.833333" fill="#022C22"/>
+<rect x="28.8387" y="9.9826" width="1.66667" height="10" rx="0.833333" transform="rotate(45 28.8387 9.9826)" fill="#022C22"/>
+<rect x="17.0536" y="21.7677" width="1.66667" height="10" rx="0.833333" transform="rotate(45 17.0536 21.7677)" fill="#022C22"/>
+<rect x="23.3334" y="20.8333" width="1.66667" height="10" rx="0.833333" transform="rotate(-90 23.3334 20.8333)" fill="#022C22"/>
+<rect x="6.66663" y="20.8333" width="1.66667" height="10" rx="0.833333" transform="rotate(-90 6.66663 20.8333)" fill="#022C22"/>
+<rect x="21.7678" y="22.9463" width="1.66667" height="10" rx="0.833333" transform="rotate(-45 21.7678 22.9463)" fill="#022C22"/>
+<rect x="9.98291" y="11.1611" width="1.66667" height="10" rx="0.833333" transform="rotate(-45 9.98291 11.1611)" fill="#022C22"/>
+</svg>
